@@ -1,0 +1,14 @@
+Here are a couple of files which I hacked together to enable communications with openni's SingleControl with a node.js socket server which would then be used by a ui layer such as flash.
+ 
+To try it, replace main.cpp in SingleControl and run the make-single.sh script or re-run the entire make.
+
+notes:
+1. I'm assuming a lot of things here i.e. openni, nite & sensor are already installed and ready to go on your machine.
+2. This is meant for the mac. I haven't tested this on linux or win. Let me know if they work.
+3.  All this inspired by BlitzLabs (http://labs.blitzagency.com/?p=2634).
+
+Happy hacking.
+
+02/06/11 - kevin
+
+
